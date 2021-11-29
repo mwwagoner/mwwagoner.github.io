@@ -1,13 +1,36 @@
 /* Global */
-
+body {
+    max-width: 800px;
+    margin: 0px auto;
+}
 
 /* Header */
+header h1 {
+    text-align: center;
+}
+.navi-bar ul {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    list-style: none;
+}
+.nav-list-item a {
+    text-decoration: none;
+}
 
 
 /* Main Content */
-
+.main-content {
+    background-color: cornsilk;
+    padding: 20px;
+}
 
 /* Footer */
+address {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
 footer address img {
     width: 8em;
     margin-top: 10px;
