@@ -1,6 +1,8 @@
 const content = `
         <li class="nav-list-item"><a href="index.html">Home</a></li>
         <li class="nav-list-item"><a href="tricube.html">Tricube Tales</a></li>
+        <li class="nav-list-item"><a href="code.html">Code</a></li>
+
 `
 /* Create the new nav and ul elements for the nav bar */
 const newNaviBar = document.createElement("nav")
