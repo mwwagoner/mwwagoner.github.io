@@ -4,6 +4,11 @@ body {
     margin: 0px auto;
     /* background-color: #774c60ff; */
 }
+code {
+    color: black;
+    background-color: lightgrey;
+    padding: 10px;
+}
 
 /* Header */
 header {
