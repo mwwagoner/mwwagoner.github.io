@@ -1,6 +1,5 @@
 const content = `
         <li class="nav-list-item"><a href="index.html">Home</a></li>
-        <li class="nav-list-item"><a href="tricube.html">Tricube Tales</a></li>
         <li class="nav-list-item"><a href="code.html">Code</a></li>
 
 `
