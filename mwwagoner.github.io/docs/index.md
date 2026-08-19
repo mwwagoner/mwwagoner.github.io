@@ -1,0 +1,26 @@
+# Michael Wagoner
+
+Hi, I'm Michael Wagoner. I'm an IT Specialist, an amateur radio operator, a tinkerer, and endlessly curious. This is my workbench: notes on software, radio, hardware, and whatever else has captured my curiosity.
+
+## On the workbench
+
+These are a few things that are currently capturing my attention.
+
+### Map and compass
+
+August 18, 2026
+
+I've been learning about land navigation with a map, UTM grid, and compass.
+
+One reason for learning this has been so that I can take a bearing from my home radio shack to various repeaters in the area. For one thing it helps me understand what's in the line of site between my antenna and those repeaters. I may have a directional antenna someday, such as a yagi, and being able to point it directly at a distant repeater could allow me to make contact where I wouldn't have otherwise been able to.
+
+I've been fascinated by maps my whole life, especially the kind you find at the beginning of fantasy books. Might have something to do with this being on my workbench.
+
+## Projects
+
+The single largest project I've undertaken in the past year has been to get my amateur radio operator certificate and call sign. I'm VA3MWF.
+
+## Field notes
+
+Here are a few notes and interesting things I've found recently while working.
+
