@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>{% if page.title %}{{ page.title }} - {% endif %}{{ config.site_name }}</title>
+        {%- for path in config.extra_css %}
+        <link href="{{ path | url }}" rel="stylesheet">
+        {%- endfor %}
+    </head>
+    <body>
+        <header>
+            {{ config.site_name }}
+        </header>
+        <main>
+            {{ page.content }}
+        </main>
+    </body>
+</html>
