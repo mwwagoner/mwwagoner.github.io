@@ -1,8 +1,0 @@
-site_name: Michael Wagoner
-
-theme:
-  name: null
-  custom_dir: theme
-
-extra_css:
-  - stylesheet/site.css
